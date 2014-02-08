@@ -1,0 +1,4 @@
+schematics ckt-slc.sch
+output-name ../pcb/ckt-slc
+skip-m4
+elements-dir ../../footprints
