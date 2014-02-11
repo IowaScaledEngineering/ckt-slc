@@ -2129,7 +2129,10 @@ Layer(2 "solder")
 		[176000 117500] [191000 117500] [191000 136000] [176000 136000] 
 	)
 )
-Layer(3 "silk")
+Layer(3 "outline")
+(
+)
+Layer(4 "silk")
 (
 	Text[15500 173500 2 100 "CH1-" "clearline,onsolder"]
 	Text[35000 173500 2 100 "CH1+" "clearline,onsolder"]
@@ -2150,7 +2153,7 @@ Layer(3 "silk")
 	Text[211000 53500 0 100 "+12V @" "clearline,onsolder"]
 	Text[215500 47000 0 100 "<10A" "clearline,onsolder"]
 )
-Layer(4 "silk")
+Layer(5 "silk")
 (
 	Line[599500 169500 599500 500 1000 2000 ""]
 	Line[500 199500 284500 199500 1000 2000 ""]
