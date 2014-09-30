@@ -1,0 +1,4 @@
+schematics ckt-slc-24.sch
+output-name ../pcb/ckt-slc-24
+skip-m4
+elements-dir ../../footprints
